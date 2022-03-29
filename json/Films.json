@@ -1,0 +1,67 @@
+{
+  "Films": [
+    {
+      "name": "Avengers: Endgame",
+      "directors": [
+        "Joe Russo",
+        "Anthony Russo"
+      ],
+      "rating": "Accion",
+      "distributor": "Walt Disney Studios",
+      "image": "https://es.web.img3.acsta.net/c_310_420/pictures/19/03/26/17/22/0896830.jpg",
+      "id": 1
+    },
+    {
+      "name": "Spider-Man: No Way Home",
+      "directors": [
+        "Jon Watts"
+      ],
+      "rating": "Accion",
+      "distributor": "Sony Pictures Studios",
+      "image": "https://es.web.img3.acsta.net/c_310_420/pictures/21/12/01/12/07/0243323.jpg",
+      "id": 2
+    },
+    {
+      "name": "Toy Story 4",
+      "directors": [
+        "Josh Cooley"
+      ],
+      "rating": "Animacion",
+      "distributor": "Disney Pixar",
+      "image": "https://es.web.img2.acsta.net/c_310_420/pictures/19/03/27/12/19/1579960.jpg",
+      "id": 3
+    },
+    {
+      "name": "La Monja",
+      "directors": [
+        "Corin Hardy"
+      ],
+      "rating": "Terror",
+      "distributor": "Warner Bros.",
+      "image": "https://es.web.img3.acsta.net/c_310_420/pictures/18/08/14/15/35/4396669.jpg",
+      "id": 4
+    },
+    {
+      "name": "RUBBER La Llanta Asesina",
+      "directors": [
+        "Quentin Dupieux"
+      ],
+      "rating": "Comedia",
+      "distributor": "Netflix",
+      "image": "https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/82/78/81/19637044.jpg",
+      "id": 5
+    },
+    {
+      "name": "EUROTRIP ",
+      "directors": [
+        "Jeff Schaffer",
+        "Alec Berg",
+        "David Mandel"
+      ],
+      "rating": "Comedia",
+      "distributor": "DreamWorks",
+      "image": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/89/87/24/20070796.jpg",
+      "id": 6
+    }
+  ]
+}
